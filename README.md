@@ -1,0 +1,1 @@
+This project aims to predict the severity of Parkinson's Disease (PD) using speech features. The study investigates various speech features, such as MFCC, Chroma, and their delta features, to determine their influence on predicting the Unified Parkinson's Disease Rating Scale (UPDRS) scores. A Transformer model is employed to analyze the data and derive meaningful insights.
