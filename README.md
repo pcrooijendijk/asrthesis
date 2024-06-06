@@ -1,4 +1,4 @@
-# Parkinson's Disease Severity Prediction Using Speech Features
+# Analyzing the Impact of Acoustic Features on Parkinson's Disease Severity Prediction
 
 ## Description
 
