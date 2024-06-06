@@ -19,4 +19,4 @@ This project aims to predict the severity of Parkinson's Disease (PD) using spee
 
 ## Acknowledgements
 
-- This project uses data from the study conducted by [Author et al., 2017](https://doi.org/10.1234/doi).
+- This project uses data from the study conducted by [Dimauro et al., 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8070308).
